@@ -1,2 +1,0 @@
-# YustonXIII
-For Shortcut App
